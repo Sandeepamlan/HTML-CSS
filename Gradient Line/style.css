@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    background-color: black;
+}
+
+.gradient-line{
+    height: 10px;
+    width: 800px;
+    border-radius: 10px;
+    background:linear-gradient(to left,rgb(255, 0, 0),rgb(1, 219, 1),rgb(0, 123, 255));
+    animation: color 4s linear infinite;
+} 
+
+@keyframes color {
+    0%{
+        filter:hue-rotate(0deg);
+    }
+    100%{
+        filter:hue-rotate(360deg);
+    }
+    
+}
