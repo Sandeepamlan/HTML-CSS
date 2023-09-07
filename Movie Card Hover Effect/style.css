@@ -65,7 +65,14 @@ span{
     color:#e4e4e4;
     text-shadow: 0 0 4px #0e0e0e;
 }
-
+.download{
+    text-align: center;
+}
+.download a{
+    width: 50px;
+    height: 40px;
+    background-color: #0e0e0e;
+}
 
 
 
