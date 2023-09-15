@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.footer{
+    margin-top: 29.3rem;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    flex-wrap: wrap;
+    color:white;
+    background-color: rgb(32,30,30);
+    padding: 1rem 0;
+    border-radius: 15px 15px 0 0;
+}
+
+.footer h2{
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.footer h2::after{
+    content: '';
+    position: absolute;
+    width: 4rem;
+    height:0.2rem;
+    top:2.5rem;
+    left:0;
+    background: #e65b00;
+}
+
+.footer p{
+    transition:all 0.4s linear;
+    margin-bottom: 0.6em;
+}
+a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+.footer p:hover{
+    transition: all 0.2s linear;
+    transform: translateX(4px);
+}
+.footer a:hover{
+    color:#f46d13;
+}
+.footer-items{
+    margin:1rem;
+}
+.footer-items ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.footer-items li{
+    margin-right: 1rem;
+}
+.social ul li {
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all .2s linear;
+}
+
+.social ul li:hover {
+    color: #e65b00;
+    transform: scale(1.1);
+    transition: all .2s linear;
+}
+@media screen and (max-width: 320px) {
+    .footer-section {
+        flex-direction: column;
+        justify-content: flex-start;
+        padding-left: 2rem;
+    }
+}
