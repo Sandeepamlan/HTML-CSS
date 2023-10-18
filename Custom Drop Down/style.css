@@ -1,0 +1,47 @@
+body{
+    padding: 60px 100px 0px 100px;
+    background-color: #00171d;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h2,p{
+    font-size: 34px;
+    color: rgb(255, 255, 255);
+}
+p{
+    font-size: large;
+}
+.options-container{
+    display: flex;
+    justify-content: center;
+   position: relative;
+   height: 30px ;
+}
+.select-box{
+    border: none;
+    appearance:none;
+    padding:0 30px 0 15px;
+    width: 100%;
+    color: black;
+    background-color:aqua;
+    font-size: 15px;
+}
+.icon{
+    position: absolute;
+    right:10px;
+    top:50%;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+}
+
+.icon i{
+    
+    
+}
