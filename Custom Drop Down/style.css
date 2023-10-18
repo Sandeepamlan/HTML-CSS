@@ -21,7 +21,7 @@ p{
    position: relative;
    height: 30px ;
 }
-.select-box{
+.select-box,.select-box2{
     border: none;
     appearance:none;
     padding:0 30px 0 15px;
@@ -30,9 +30,9 @@ p{
     background-color:aqua;
     font-size: 15px;
 }
-.icon{
+.icon,.icon2{
     position: absolute;
-    right:10px;
+    right:6px;
     top:50%;
     transform: translateY(-50%);
     display: flex;
@@ -41,7 +41,10 @@ p{
     pointer-events: none;
 }
 
-.icon i{
+.select-box2 {
     
-    
+    background: linear-gradient(90deg,aqua 82%, #042c54 77%) ;
+}
+.icon2{
+    color: aqua;
 }
