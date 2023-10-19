@@ -28,9 +28,9 @@
 
 **_#Day-14_** ```How to make Custom Drop Down Option using HTML & CSS```✅
 
-**_#Day-15_** ```How to make portfolio Page using HTML & CSS```✅
+**_#Day-15_** ```How to make Image Slider using HTML & CSS```✅
 
-**_#Day-16_** Coming Soon
+**_#Day-16_** ```How to make portfolio Page using HTML & CSS```✅
 
 **_#Day-17_** Coming Soon
 
