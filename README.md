@@ -30,9 +30,9 @@
 
 **_#Day-15_** ```How to make Image Slider using HTML & CSS```✅
 
-**_#Day-16_** ```How to make portfolio Page using HTML & CSS```✅
+**_#Day-16_** ```How to make Navigation Menu using HTML & CSS```✅
 
-**_#Day-17_** Coming Soon
+**_#Day-17_** ```How to make portfolio Page using HTML & CSS```✅
 
 **_#Day-18_** Coming Soon
 
