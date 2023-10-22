@@ -32,9 +32,9 @@
 
 **_#Day-16_** ```How to make Navigation Menu using HTML & CSS```✅
 
-**_#Day-17_** ```How to make portfolio Page using HTML & CSS```✅
+**_#Day-17_** ```How to make Animated Radio Button using HTML & CSS```✅
 
-**_#Day-18_** Coming Soon
+**_#Day-18_** ```How to make portfolio Page using HTML & CSS```✅
 
 **_#Day-19_** Coming Soon
 
