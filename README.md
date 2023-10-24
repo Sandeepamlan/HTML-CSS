@@ -34,9 +34,9 @@
 
 **_#Day-17_** ```How to make Animated Radio Button using HTML & CSS```✅
 
-**_#Day-18_** ```How to make portfolio Page using HTML & CSS```✅
+**_#Day-18_** ```How to make Music Player UI using HTML & CSS```✅
 
-**_#Day-19_** Coming Soon
+**_#Day-19_** ```How to make portfolio Page using HTML & CSS```✅
 
 **_#Day-20_** Coming Soon
 
