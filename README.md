@@ -36,7 +36,7 @@
 
 **_#Day-18_** ```How to make Music Player UI using HTML & CSS```✅
 
-**_#Day-19_** ```How to make portfolio Page using HTML & CSS```✅
+**_#Day-19_** ```How to make Rating Design using HTML & CSS```✅
 
-**_#Day-20_** Coming Soon
+**_#Day-20_** ```How to make portfolio Page using HTML & CSS```✅
 
