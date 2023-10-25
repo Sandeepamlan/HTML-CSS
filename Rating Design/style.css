@@ -1,0 +1,36 @@
+*{
+box-sizing:border-box;
+}
+body{
+background: #20ca6b;
+height:100vh;
+}
+.container{
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+top:50px;
+color:whitesmoke;
+}
+.rating {
+  display: inline-block;
+}
+
+.rating input {
+  display: none;
+}
+
+.rating label {
+  float: right;
+  color: #ddd;
+}
+
+.rating label:before {
+  content: '\2605';
+  font-size: 30px;
+}
+
+.rating input:checked ~ label {
+  color: #ffca08;
+}
