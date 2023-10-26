@@ -38,5 +38,6 @@
 
 **_#Day-19_** ```How to make Rating Design using HTML & CSS```✅
 
-**_#Day-20_** ```How to make portfolio Page using HTML & CSS```✅
+**_#Day-20_** ```How to make Screen Loader Animation using HTML & CSS```✅
 
+**_#Day-21_** ```How to make portfolio Page using HTML & CSS```✅
