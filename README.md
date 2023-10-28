@@ -40,4 +40,6 @@
 
 **_#Day-20_** ```How to make Screen Loader Animation using HTML & CSS```✅
 
-**_#Day-21_** ```How to make portfolio Page using HTML & CSS```✅
+**_#Day-21_** ```How to make Product Page using HTML & CSS```✅
+
+**_#Day-22_** ```How to make portfolio Page using HTML & CSS```✅
