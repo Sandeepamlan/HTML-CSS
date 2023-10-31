@@ -42,4 +42,10 @@
 
 **_#Day-21_** ```How to make Product Page using HTML & CSS```✅
 
-**_#Day-22_** ```How to make portfolio Page using HTML & CSS```✅
+**_#Day-22_** ```How to make Landing Page using HTML & CSS```✅
+
+**_#Day-23_** ```Coming Soon```
+
+**_#Day-24_** ```Coming Soon```
+
+**_#Day-25_** ```Coming Soon```
