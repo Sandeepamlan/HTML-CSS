@@ -44,7 +44,7 @@
 
 **_#Day-22_** ```How to make Landing Page using HTML & CSS```✅
 
-**_#Day-23_** ```Coming Soon```
+**_#Day-23_** ```How to make Social Icon Effects using HTML & CSS```✅
 
 **_#Day-24_** ```Coming Soon```
 
