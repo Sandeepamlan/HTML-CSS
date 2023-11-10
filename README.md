@@ -46,6 +46,6 @@
 
 **_#Day-23_** ```How to make Social Icon Effects using HTML & CSS```✅
 
-**_#Day-24_** ```Coming Soon```
+**_#Day-24_** ```How to make Netflix Clone Form  Using HTML & CSS```✅
 
 **_#Day-25_** ```Coming Soon```
