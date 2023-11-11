@@ -48,4 +48,14 @@
 
 **_#Day-24_** ```How to make Netflix Clone Form  Using HTML & CSS```✅
 
-**_#Day-25_** ```How to make Birthday Party Invitation Using HTML & CSS```
+**_#Day-25_** ```How to make Birthday Party Invitation Using HTML & CSS```✅
+
+**_#Day-26_** ```Coming Soon```
+
+**_#Day-27_** ```Coming Soon```
+
+**_#Day-28_** ```Coming Soon```
+
+**_#Day-29_** ```Coming Soon```
+
+**_#Day-30_** ```Coming Soon```
