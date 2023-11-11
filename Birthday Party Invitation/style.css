@@ -1,0 +1,72 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f2c94c;
+    text-align: center;
+    padding: 1em;
+    color: #fff;
+}
+
+header h1 {
+  font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+
+.celebration {
+    position: relative;
+    overflow: hidden;
+    height: 400px; /* Adjust as needed */
+    text-align: center;
+    color: #fff;
+}
+
+.background-image {
+    background: url('https://i.pinimg.com/originals/4a/a9/db/4aa9db8f28481f9423d06293fa63e91b.jpg') center/cover no-repeat; /* Replace 'celebration-background.jpg' with your image */
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.8; /* Adjust the opacity as needed */
+    z-index: -1;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h2 {
+    font-size: 2.5em;
+    font-family: 'Agbalumo', sans-serif;
+}
+p{
+
+font-family: 'Kanit', sans-serif;}
+
+.invitation {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f2c94c;
+    color: #fff;
+}
+
+footer p {
+    margin: 0;
+}
