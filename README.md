@@ -50,7 +50,7 @@
 
 **_#Day-25_** ```How to make Birthday Party Invitation Using HTML & CSS```✅
 
-**_#Day-26_** ```Coming Soon```
+**_#Day-26_** ```How to make Highlighted Table using HTML & CSS```✅
 
 **_#Day-27_** ```Coming Soon```
 
