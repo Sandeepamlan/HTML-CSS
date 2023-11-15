@@ -52,7 +52,7 @@
 
 **_#Day-26_** ```How to make Highlighted Table using HTML & CSS```✅
 
-**_#Day-27_** ```Coming Soon```
+**_#Day-27_** ```How to make Food Order Design using HTML & CSS```✅
 
 **_#Day-28_** ```Coming Soon```
 
