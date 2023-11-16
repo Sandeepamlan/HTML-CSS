@@ -54,7 +54,7 @@
 
 **_#Day-27_** ```How to make Food Order Design using HTML & CSS```✅
 
-**_#Day-28_** ```Coming Soon```
+**_#Day-28_** ```How to make CSS Tab Design Using HTML & CSS```✅
 
 **_#Day-29_** ```Coming Soon```
 
