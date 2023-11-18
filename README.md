@@ -56,6 +56,6 @@
 
 **_#Day-28_** ```How to make CSS Tab Design Using HTML & CSS```✅
 
-**_#Day-29_** ```Coming Soon```
+**_#Day-29_** ```How to make Sidebar Design using HTML & CSS```✅
 
 **_#Day-30_** ```Coming Soon```
