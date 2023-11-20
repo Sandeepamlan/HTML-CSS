@@ -58,4 +58,4 @@
 
 **_#Day-29_** ```How to make Sidebar Design using HTML & CSS```✅
 
-**_#Day-30_** ```Coming Soon```
+**_#Day-30_** ```How to make Responsive Tabs using HTML & CSS```✅
